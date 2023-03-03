@@ -24,7 +24,7 @@ Highly experienced programmer with a strong track record of delivering complex p
 
 > ### Computer engineering 
 > UPIICSA - IPN
-> - Earned a degree in Computing (Ingeniería en informática).
+> - Earned a bachelor's degree in Computing (Ingeniería en informática).
 > - Developed strong problem-solving skills.
 > - Learned to code in multiple programming languages.
 
