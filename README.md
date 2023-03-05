@@ -20,6 +20,8 @@ Highly experienced programmer with a strong track record of delivering complex p
 > - Generated code to create user interfaces with Figma, HTML and CSS.
 > - Wrote code to create and manage databases.
 
+> ### A few more here: [linkedin profile](https://www.linkedin.com/in/sergio-monterrubio-8087b467/)
+
 ## Education
 
 > ### Computer engineering 
